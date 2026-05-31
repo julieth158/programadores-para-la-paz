@@ -1,0 +1,8 @@
+Las Interfaces de Programación de Aplicaciones (APIs) representan una herramienta tecnológica 
+fundamental para el empoderamiento y la organización comunitaria. 
+Al centralizar la información en un servidor accesible mediante endpoints claros, permiten que diferentes aplicaciones 
+(móviles, web o sistemas de mensajería) se conecten a una misma base de conocimiento. 
+Esto facilita que los reportes de incidentes, alertas tempranas o necesidades vecinales no se pierdan en chats informales, sino que se capturen de manera estructurada.
+ Además, la transparencia que promueven las APIs ayuda a auditar la gestión de los recursos y las respuestas institucionales, promoviendo la veeduría ciudadana. 
+ De este modo, la tecnología actúa como un puente eficiente que transforma datos individuales en acciones comunitarias coordinadas, mejorando la toma de decisiones 
+ colectivas y la confianza entre los habitantes de un territorio.
