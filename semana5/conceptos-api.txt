@@ -1,0 +1,19 @@
+
+1. ¿QUÉ HACE ESTA RUTA? (Explicación técnica)
+
+Esta ruta está configurada en el servidor para escuchar peticiones utilizando el método HTTP POST en el endpoint '/reporte'. A diferencia de un método GET (que solo consulta información), esta ruta se encarga de recibir datos de manera segura y estructurada.
+
+El proceso que realiza el código es el siguiente:
+Recepción de datos: Captura la información que el cliente (un formulario web o una app) envía oculta en el cuerpo de la solicitud (req.body).
+Extracción: Extrae específicamente la propiedad llamada 'mensaje' mediante la línea "const mensaje = req.body.mensaje;".
+Respuesta del servidor: El servidor procesa el texto y le devuelve al cliente una respuesta en formato JSON con un objeto que contiene el estado ("Reporte recibido") y el texto original que el usuario envió. Esto sirve para confirmarle al usuario que su información llegó correctamente a la base de datos o al sistema.
+
+2. ¿PARA QUÉ PODRÍA SERVIR EN UNA APLICACIÓN COMUNITARIA?
+En el contexto de una plataforma comunitaria, social o de participación juvenil, una ruta POST como esta es fundamental porque permite la interacción bidireccional (que los usuarios no solo lean, sino que también aporten información). 
+
+Casos de uso reales:
+Reporte de daños o incidentes: Para que un ciudadano envíe una alerta sobre una luminaria rota, un bache en la vía pública o fallas en un servicio comunitario.
+Veeduría ciudadana y transparencia: Permitiría a los jóvenes reportar de manera responsable presuntas irregularidades, dudas o evidencias en procesos locales (como lo mencionado sobre las elecciones juveniles o el formulario E14).
+Buzón de sugerencias o propuestas: Un espacio digital donde los integrantes de la comunidad redacten ideas o proyectos para el barrio y los envíen directamente a los líderes para su revisión.
+Envío de alertas tempranas: Un canal seguro para reportar situaciones de riesgo comunitario o vulneración de derechos de manera organizada y centralizada.
+
