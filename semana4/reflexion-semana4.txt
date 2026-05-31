@@ -1,0 +1,8 @@
+La construcción de herramientas tecnológicas propias por parte de las comunidades, utilizando 
+tecnologías abiertas como Node.js, es fundamental para garantizar su autonomía digital y soberanía tecnológica. 
+Al no depender de plataformas privadas y cerradas, las iniciativas ciudadanas pueden diseñar soluciones a la medida de sus realidades locales, 
+modificando el código según cambien sus necesidades de comunicación, veeduría o transparencia.
+ Node.js, al ser un entorno basado en JavaScript, cuenta con una de las comunidades globales más grandes del mundo,
+  lo que facilita el aprendizaje y permite que personas del mismo territorio 
+  se conviertan en los desarrolladores de sus propios sistemas 
+  de alerta o gestión.
