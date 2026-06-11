@@ -1,0 +1,13 @@
+Al consultar la ruta GET /reportes, el servidor devuelve todos los reportes que han sido registrados previamente mediante la ruta POST /reportes.
+
+Cada reporte aparece almacenado dentro del arreglo reportes y contiene un identificador, un tipo y una descripción. A medida que se agregan nuevos reportes, la lista mostrada por GET aumenta. Los datos permanecen disponibles mientras el servidor esté en ejecución.
+
+Ejemplo de respuesta:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+] 
