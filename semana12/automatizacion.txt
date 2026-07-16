@@ -1,0 +1,10 @@
+AUTOMATIZACIÓN CON N8N Y TELEGRAM
+
+Evento:
+Nueva causa registrada en la plataforma.
+
+Mensaje:
+"Nueva causa creada en la plataforma. Ya está disponible para que la comunidad la consulte y la apoye."
+
+Información que no debe enviarse:
+No se deben enviar cédulas, números de teléfono, direcciones, correos electrónicos, contraseñas, comentarios sensibles ni otros datos personales de los usuarios para proteger su privacidad y seguridad.

@@ -1,0 +1,25 @@
+MODELO DE DATOS SIMPLE
+
+Entidad: Causa
+
+Campos:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Esta entidad almacena la información de cada causa comunitaria creada por los ciudadanos, permitiendo registrar y consultar las iniciativas publicadas en la plataforma.
+
+
+
+Entidad: Apoyo
+
+Campos:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+Esta entidad registra los apoyos que recibe cada causa, identificando quién la apoyó y cuándo lo hizo para llevar el seguimiento de la participación ciudadana.

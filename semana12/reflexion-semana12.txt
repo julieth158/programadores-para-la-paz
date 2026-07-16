@@ -1,0 +1,8 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy útil para fortalecer la participación ciudadana y la organización comunitaria. 
+Comprendí la importancia de planificar proyectos utilizando metodologías ágiles como el backlog y las iteraciones. 
+También aprendí cómo funcionan las bases de datos para almacenar información de manera organizada y segura. 
+Entendí la necesidad de proteger los datos personales mediante la autenticación y el control de acceso. 
+Además, conocí el uso de herramientas como n8n y Telegram para automatizar procesos y mejorar la comunicación. 
+Aprendí que una plataforma debe ser sencilla, segura y fácil de usar.
+ Todos estos conocimientos permiten desarrollar soluciones con impacto social y fomentar la colaboración entre los ciudadanos. 
+ La tecnología, cuando se utiliza de forma responsable, contribuye a construir comunidades más organizadas, participativas y transparentes.
